@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,9 +9,12 @@ namespace EntityLayer.Concrete
 {
     public class Category
     {
+        [Key]
         public int CategoryId { get; set; }
-        public int CategoryName { get; set; }
-        public int CategoryDescription { get; set; }
+        [StringLength(100)]
+        public string CategoryName { get; set; }
+        [StringLength(1000)]
+        public string CategoryDescription { get; set; }
         public bool CategoryStatus { get; set; }
     }
 }
