@@ -1,0 +1,15 @@
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
