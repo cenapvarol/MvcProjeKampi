@@ -9,3 +9,4 @@ C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debu
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
