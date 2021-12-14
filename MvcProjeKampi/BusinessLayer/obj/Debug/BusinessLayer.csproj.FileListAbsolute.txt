@@ -15,3 +15,6 @@ C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\BusinessLayer\obj\De
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.xml

@@ -12,4 +12,3 @@ C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
-C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete

@@ -148,3 +148,4 @@ C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\obj\De
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.csproj.CoreCompileInputs.cache
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.dll
 C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.pdb
+C:\Users\Cenap\Documents\GitHub\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.csproj.CopyComplete
